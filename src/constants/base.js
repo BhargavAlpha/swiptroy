@@ -1,3 +1,3 @@
-const BASEURL = "https://swiptory-u41l.onrender.com";
+const BASEURL = "https://swiptroy-backend.onrender.com";
 
 export default BASEURL;
